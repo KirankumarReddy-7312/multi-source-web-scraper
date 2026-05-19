@@ -1,0 +1,7 @@
+scrapy
+beautifulsoup4
+pandas
+flask
+schedule
+pymongo
+mysql-connector-python
